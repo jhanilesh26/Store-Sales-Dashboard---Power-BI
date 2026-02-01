@@ -70,5 +70,33 @@ This project presents an end-to-end Business Intelligence dashboard built in Pow
 
 ---
 
+![Uploading Report - 1.png…]()
 
+<img width="1515" height="858" alt="Report - 2" src="https://github.com/user-attachments/assets/0334b3c2-7543-4283-becb-4fcfe2df2558" />
+
+---
+
+## ▶️ How to Use
+
+1. Open the `.pbix` file in Power BI Desktop
+2. Connect dataset if prompted
+3. Use slicers and filters to explore insights
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Business Insight Generation
+- Dashboard Design
+- Forecasting in Power BI
+
+---
+
+## 👤 Author
+
+**Nilesh Jha**  
+B.Tech IT | Data Analytics Enthusiast | Power BI Developer
 
