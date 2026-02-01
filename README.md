@@ -69,8 +69,8 @@ This project presents an end-to-end Business Intelligence dashboard built in Pow
 - Interactive region filters (Central, East, South, West)
 
 ---
+<img width="1530" height="858" alt="Report - 1" src="https://github.com/user-attachments/assets/128f4621-75f4-4682-9b87-4d12bf908b9d" />
 
-![Uploading Report - 1.png…]()
 
 <img width="1515" height="858" alt="Report - 2" src="https://github.com/user-attachments/assets/0334b3c2-7543-4283-becb-4fcfe2df2558" />
 
